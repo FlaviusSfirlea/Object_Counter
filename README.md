@@ -2,9 +2,11 @@
 
 The following are the hardware components that were used in the project:
 - Arduino Developement Board (replica)
+- Breadboard
 - Ultrasonic Sensor
 - LCD
-- notification LED attached to the Arduino board.
+- notification LED attached to the Arduino board
+- resistor.
 
 Short description of the project:
 Counts objects on a conveyor band.
